@@ -1,8 +1,11 @@
-# Hello, I'm ABID_HASAN_(AKASH) 👋  
+# Hello, I'm ABID_HASAN_(AKASH) 👇
 
 👨‍💻 A curious learner and self-taught web developer.  
 🌱 I love exploring new technologies, building projects, and learning from challenges.  
 ⚽ When I’m not coding, you’ll probably find me watching football or improving my English.  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+
 
 ### 🧠 I’m Currently Learning
 - React.js and Express.js  
