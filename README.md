@@ -1,4 +1,4 @@
-# Hey there! I'm Abid Hasan 👋  
+# Hello, I'm ABID HASAN (AKASH) 👋  
 
 👨‍💻 A curious learner and self-taught web developer.  
 🌱 I love exploring new technologies, building projects, and learning from challenges.  
