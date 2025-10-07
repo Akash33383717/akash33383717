@@ -5,7 +5,13 @@
 ⚽ When I’m not coding, you’ll probably find me watching football or improving my English.  
 
 ### 🧠 I’m Currently Learning
-![HTML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+### 🧠 Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</p>
+
 - React.js and Express.js  
 - MongoDB and Node.js  
 - Version control with Git & GitHub  
