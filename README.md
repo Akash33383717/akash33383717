@@ -1,14 +1,17 @@
-## Hi there 👋
+# Hey there! I'm Abid Hasan 👋  
 
-**Akash33383717/akash33383717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 A curious learner and self-taught web developer.  
+🌱 I love exploring new technologies, building projects, and learning from challenges.  
+⚽ When I’m not coding, you’ll probably find me watching football or improving my English.  
 
-Here are some ideas to get you started:
+### 🧠 I’m Currently Learning
+- React.js and Express.js  
+- MongoDB and Node.js  
+- Version control with Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧩 Fun Facts
+- I enjoy **problem-solving**
+- I believe **practice makes perfect**
+- My motto: *“Build. Learn. Repeat.”*
+
+Let’s connect and grow together!
